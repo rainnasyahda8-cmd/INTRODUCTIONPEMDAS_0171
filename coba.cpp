@@ -10,6 +10,7 @@ int main(){//program utama
     int age1; //variable local
     age = 20;
     age1 = 15;
+cout << "hallo world" << endl;
 
 
 
