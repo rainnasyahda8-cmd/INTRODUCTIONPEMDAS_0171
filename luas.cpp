@@ -9,7 +9,7 @@ int main(){
     cin >> p;
     
     //langkah 3
-    cout << "masukan lebara: ";
+    cout << "masukan lebar: ";
     cin >> 1;
     
     //langkah 4 
