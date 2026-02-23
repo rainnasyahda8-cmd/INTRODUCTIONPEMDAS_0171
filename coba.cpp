@@ -14,6 +14,4 @@ cout << "hallo world" << endl;
 cout << 99 << endl;
 cout << age;
 
-
-
 }//selesai
