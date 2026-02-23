@@ -8,7 +8,7 @@ int main(){
     cout << "masukan panjang: ";
     cin >> p;
     
-    langkah 3 
+    //langkah 3
     cout << "masukan lebara: ";
     cin >> 1;
     
